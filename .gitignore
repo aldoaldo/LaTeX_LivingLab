@@ -1,3 +1,6 @@
+# To omit including hidden files from MacOS
+Icon
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
